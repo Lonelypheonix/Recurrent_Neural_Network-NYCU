@@ -61,7 +61,7 @@ Lets look at the graphs for a better understanding of the models.
 ![Kaggle](https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/blob/main/Homework-2/Images/kaggle_submission.png)
 
 4. Model Prediction 
-The results are saved in <a href="[https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/blob/main/Homework-2/RNN_HW2.ipynb](https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/blob/main/Homework-2/Predictions/prediction_results.csv)" target="_blank">
+The results are saved in <a href="https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/blob/main/Homework-2/Predictions/prediction_results.csv" target="_blank">
    "prediction_results.csv"
 </a> 
 ## Code 
