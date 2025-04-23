@@ -17,3 +17,8 @@ The objective of this project was to build two ML models : LSTM and GRU to predi
 Check out more on the link below <br/>
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/tree/main/Homework-2)
 
+## Homework 3
+
+The objective of this project was to Develop a Named Entity Recognition (NER) tool based on BERT Model.
+Check out more on the link below <br/>
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/tree/main/Homework-3)
