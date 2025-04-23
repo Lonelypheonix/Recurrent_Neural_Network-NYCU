@@ -56,7 +56,7 @@ Lets look at the graphs for a better understanding of the models.
 The SecBert results are saved in <a href="https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/blob/main/Homework-3/Secbert-Pretrained/model_output/test_results.txt" target="_blank"> "test_results.txt" </a> 
 
 ## Code 
-You can check the jupyter notebook (.ipynb file) for the code <br>
+You can check the jupyter notebook (.ipynb file) for the code <br> <br>
 Baseline BiLSTM
 <a href="https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/blob/main/Homework-3/Baseline/baseline.ipynb" target="_blank">
   <img 
@@ -65,12 +65,12 @@ Baseline BiLSTM
     width="20"
     style="vertical-align: middle; margin-right: 5px;"
   />  Jupyter notebook
-</a> <br>
+</a> <br> <br>
 You can also run the code on collab 
 <a target="_blank" href="https://colab.research.google.com/github/Lonelypheonix/Recurrent_Neural_Network-NYCU/blob/main/Homework-3/Baseline/baseline.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-<br>
+<br> <br>
 SecBert BiLSTM-CRF
 <a href="https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/blob/main/Homework-3/Secbert-Pretrained/Secbert-Pretrained.ipynb" target="_blank">
   <img 
@@ -79,7 +79,7 @@ SecBert BiLSTM-CRF
     width="20"
     style="vertical-align: middle; margin-right: 5px;"
   />  Jupyter notebook
-</a> <br>
+</a> <br> <br>
 You can also run the code on collab 
 <a target="_blank" href="https://colab.research.google.com/github/Lonelypheonix/Recurrent_Neural_Network-NYCU/blob/main/Homework-3/Secbert-Pretrained/Secbert-Pretrained.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
