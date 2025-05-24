@@ -5,6 +5,7 @@
 * [Homework 1](#Homework_1)
 * [Homework 2](#Homework_2)
 * [Homework 3](#Homework_3)
+* [Homework 4](#Homework_4)
 
 ## Homework 1
 
@@ -23,3 +24,10 @@ Check out more on the link below <br/>
 The objective of this project was to Develop a Named Entity Recognition (NER) tool based on BERT Model.
 Check out more on the link below <br/>
 [![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/tree/main/Homework-3)
+
+## Homework 4
+
+The objective of this project was to perform Comparative Analysis of Vision Transformer and SWIN Models for Image Classification.
+Check out more on the link below <br/>
+[![Open in GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/Lonelypheonix/Recurrent_Neural_Network-NYCU/tree/main/Homework-4)
+
